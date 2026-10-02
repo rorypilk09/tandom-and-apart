@@ -1,0 +1,2 @@
+[functions.submit-research]
+verify_jwt = false
